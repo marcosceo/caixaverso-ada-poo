@@ -64,4 +64,20 @@ node main.js
 
 ---
 
-Feito com ☕ e muito código!
+## Requisitos Extras
+
+Como parte dos requisitos extras foi desenvolvida interface HTML de gestão da biblioteca.
+
+Os dados são persistidos no navegador utilizando o localStorage.
+
+Foram desenvolvidas as seguintes funcionalidades:   
+
+- Cadastro e exclusão dos usuários, autores, livors e empréstimos.
+
+- Exibição em tela dos usuários, autores, livros e emprestimos cadastrados.
+
+- Validação para impedir o emprestimo de livro já emprestado.
+
+A página pode ser acessada pelo link https://biblioteca-js.vercel.app/. 
+
+---
