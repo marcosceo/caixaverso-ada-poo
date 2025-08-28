@@ -78,6 +78,10 @@ Foram desenvolvidas as seguintes funcionalidades:
 
 - Validação para impedir o emprestimo de livro já emprestado.
 
+- Validação para impedir exclusão de usuário e livro com emprestimos ativos.
+
+- Validação para impedir a exclusão de autor com livros cadastrados.
+
 A página pode ser acessada pelo link https://biblioteca-js.vercel.app/. 
 
 ---

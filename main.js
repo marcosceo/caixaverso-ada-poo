@@ -69,7 +69,7 @@ biblioteca.editarUsuario("0001", "João da Silva"); // Edita usuário
 console.log("Tenta realizar empréstimo para usuário excluído:");
 biblioteca.realizarEmprestimo("0002", "0002"); // Tenta realizar empréstimo para usuário excluído
 
-console.log("Tenta realizar empréstimo para livro não disponível:");
+console.log("Tenta realizar empréstimo para livro excluído:");
 biblioteca.realizarEmprestimo("0004", "0001"); // Tenta realizar empréstimo para livro não disponível
 
 console.log("Realiza empréstimos.");
